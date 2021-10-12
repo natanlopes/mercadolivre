@@ -1,0 +1,104 @@
+*{
+	margin: 0 0 0 0;
+	font-family: tahoma;
+	font-size: 12px;
+
+	}
+#main{
+
+	width: 100%;
+	height: 800px;
+	background-color:#c0c0c0 ;
+	}
+ #topo{
+      width: 96%;
+	height: 60px;
+	background-color: #FFF059;
+	padding-top: 20px;
+	padding-left: 4%;
+
+ }
+#logo{
+       width: 20%;
+	height: 50px;
+	float: left;
+ }
+ #busca{
+       width:40%;
+	height:50px;
+	float: left;
+
+
+ }
+ #menu-topo{
+       width: 28%;
+	height: 50px;
+	float: right;
+	line-height: 50px;
+
+ }
+ #menu-topo a{
+      font-size: 16px;
+      text-decoration: none;
+	
+
+ }
+ #banner{
+       width: 100%;
+	height: 340px;
+ }
+ #pagamentos{
+        width: 100%;
+	height: 50px;
+	background-color: #666;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+
+ }
+
+ #info{
+      width: 80%;
+	height: 250px;
+	background-color: #F9F9F9;
+	padding-left: 20%;
+	padding-top: 40px;
+
+ }
+ #rodape{
+       width: 100%;
+	height: 50px;
+	background-color: #000000;
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 50px;;
+
+
+ }
+ #busca-input{
+       background: url('busca.png');
+       background-color: #FFFFFF;
+	background-repeat: no-repeat;
+	background-position: left;
+	font-size: 20px;
+	width: 90%;
+	height: 40px;
+	padding-left: 6%;
+	border: none;
+
+ }
+ .container-info{
+              font-family: Arial;
+		font-size: 20px;
+		text-align: center;
+		width: 25%;
+		height: 250px;
+		float: left;
+
+ }
+ .text-info{
+              font-size: 12px;
+		font-weight: normal;
+		color: #666;
+
+ }
